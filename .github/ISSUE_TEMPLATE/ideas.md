@@ -2,7 +2,7 @@
 name: Idea
 about: Have an idea for MassEnergize
 title: ''
-labels: 'proposal'
+labels: 'idea'
 assignees: ''
 
 ---
